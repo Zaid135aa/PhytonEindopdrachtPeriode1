@@ -12,3 +12,4 @@ while monster_health > 0:
 
 print("Monster verslagen!")
 print("Aantal aanvallen:", attacks)
+#dit is onze loop
