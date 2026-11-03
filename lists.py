@@ -8,3 +8,4 @@ boodschappen.remove("Melk")
 print(len(boodschappen))
 
 print(boodschappen)
+#dit is de hele lijst
